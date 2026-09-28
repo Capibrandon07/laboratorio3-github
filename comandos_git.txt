@@ -1,0 +1,5 @@
+git clone <URL>  -> copia un repositorio remoto a tu PC
+git switch -c <rama>  -> crea y cambia a una nueva rama
+git add .  -> agrega los cambios al área de preparación
+git commit -m "mensaje"  -> guarda los cambios en el historial
+git push origin <rama>  -> sube la rama a GitHub
